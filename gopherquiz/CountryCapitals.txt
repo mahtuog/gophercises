@@ -1,0 +1,12 @@
+India = Delhi
+Pakistan = Islamabad
+USA = WashingtonDC
+Afghanistan = Kabul
+Sri Lanka = Colombo
+Bangladesh = Dhaka
+Indonesia = Jararta
+Egypy = Cairo
+France = Paris
+Italy = Rome
+Germany = Berlin
+Switzerland = Bern
