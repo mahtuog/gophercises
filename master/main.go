@@ -8,7 +8,7 @@ import (
 func main() {
 
 	timePtr := flag.Int("limit", 2, "time limit for each question")
-	topicPtr := flag.String("file", "numeric.txt", "quiz file path")
+	topicPtr := flag.String("file", "numeric.txt", "a csv file in the format 'question = answer'")
 
 	flag.Parse()
 
